@@ -7,6 +7,7 @@
 - Automate workflows and integrate APIs (Slack, Stripe, OpenAI)
 
 🧠 Tech Stack
+
 **Frontend:** React, Next.js, TypeScript, Zustand, Tailwind, Framer Motion  
 **Backend:** Node.js, Express, Supabase, Firebase  
 **DB:** MongoDB, MySQL  
